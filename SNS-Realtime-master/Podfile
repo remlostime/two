@@ -1,0 +1,8 @@
+# platform :ios, '9.0'
+
+target 'SNS-Realtime' do
+    # pod 'Firebase/Core'
+    # pod 'Firebase/Database'
+    pod 'Firebase', '~> 2.4'
+    pod 'JSQMessagesViewController'
+end
